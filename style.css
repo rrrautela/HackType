@@ -1,0 +1,30 @@
+html, body{
+    background-color: black;
+    height: 100%;
+    width : 100%;
+}
+
+#hacker1{
+    color:#20c20e;
+    font-family: Consolas;
+    /* display: inline-block; */
+    size: 100px;
+}
+#hacker{
+    color:#20c20e;
+    font-family: Consolas;
+    /* display: inline-block; */
+    size: 100px;
+    display: inline-block;
+    margin-right: 50px;
+    padding-top:0px;
+    margin-top: 0px;
+}
+hr{
+    color:#20c20e;
+}
+footer{
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
